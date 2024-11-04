@@ -1,0 +1,20 @@
+.box {
+    background-color: gray;
+    padding: 30px;
+    margin: 15px;
+   }
+   #glowa .box {
+    background-color: rgb(111, 0, 255);
+   }
+   #main .box {
+    background-color: rgb(69, 0, 126);
+   }
+   #stopka .box {
+    background-color: rgb(255, 0, 0);
+   }
+   #glowa .highlight {
+    background-color: rgb(255, 0, 255);
+   }
+   #stopka .highlight {
+    background-color: rgb(0, 38, 255);
+   }
